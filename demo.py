@@ -1,1 +1,1 @@
-print("MAIN VERSION")
+print("CONFLICT VERSION")
